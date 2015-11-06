@@ -48,3 +48,11 @@ if (guess5==NO || guess5==no) {
 	console.log("The answer to the question is no");
 }
 
+var number =3;
+var guess6 = prompt("Between 1-10, what number am I thinking of? Please type the actual number.");
+if (guess6==number) {
+	alert("Correct! I think any number with 3 in it is lucky!");
+} else {
+	alert("Incorrect. It's close to 2.")
+}
+
