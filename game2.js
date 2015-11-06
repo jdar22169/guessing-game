@@ -44,7 +44,7 @@ if (guess5==NO || guess5==no) {
 	alert("Correct! I really don't like fish except maybe fish and chips because of the batter");
 	console.log("Yes, the answer to the question is no");
 } else {
-	alert("Sorry. Yes is incorrect. Fish is one of my least favorite foods.")
+	alert("Sorry. Yes is incorrect. Fish is one of my least favorite foods.");
 	console.log("The answer to the question is no");
 }
 
