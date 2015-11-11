@@ -1,1 +1,37 @@
-.correct {color:green;}
+body {
+	background-color: #00B800;
+}
+h1 {
+	text-align: center;
+	text-shadow: 1px 1px 3px;
+}
+p {
+	text-align: center;
+	font-size: 18px;
+
+	}
+
+div { 
+	background-color: #D4E3F1;
+	border: solid black;
+	}
+
+h3 { 
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 1.5em;
+	}
+.correct {
+	color:green;
+	font-family: impact;
+	font-size: 14px;
+	text-align: center;
+	}
+
+.incorrect {
+	color:red;
+	font-family: impact;
+	font-size: 14px;
+	text-align: center;
+	}
+

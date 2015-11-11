@@ -28,7 +28,7 @@ if (answers[1]==music) {
 }
 
 var TV= prompt(questions[2]).toUpperCase();
-if (answers[3]==TV) {
+if (answers[2]==TV) {
 	document.getElementById("BSGOne").innerHTML="Yes, I love to watch Battlestar Galactica! So Say We All!";
 } else {
 	document.getElementById("BSGTwo").innerHTML="Sorry. 'No' is incorrect. Battlestar Galactica is one of my favorite TV shows.";
