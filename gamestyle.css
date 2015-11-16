@@ -1,10 +1,12 @@
 body {
 	background-color: #00B800;
-}
+	}
+
 h1 {
 	text-align: center;
-	text-shadow: 1px 1px 3px;
-}
+	text-shadow: 1px 1px 2px;
+	}
+
 p {
 	text-align: center;
 	font-size: 18px;
@@ -12,26 +14,44 @@ p {
 	}
 
 div { 
-	background-color: #D4E3F1;
+	background-color: black;
 	border: solid black;
 	}
 
 h3 { 
 	text-transform: uppercase;
 	text-align: center;
-	line-height: 1.5em;
+	color:white;
 	}
+
+#bballPic {
+	display: block;
+	margin: 0px auto;
+	border:solid gray;
+	}
+
+#bsgPic {
+	display: block;
+	margin: 0px auto;
+	border: solid gray;
+	}
+
+#milesPic {
+	display:block;
+	margin: 0px auto;
+	}
+
 .correct {
-	color:green;
+	color:#1aff1a;
 	font-family: impact;
-	font-size: 14px;
+	font-size: 18px;
 	text-align: center;
 	}
 
 .incorrect {
 	color:red;
 	font-family: impact;
-	font-size: 14px;
+	font-size: 18px;
 	text-align: center;
 	}
 
